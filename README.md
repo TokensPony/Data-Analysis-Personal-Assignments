@@ -8,3 +8,5 @@ Copyright (C) <2019>  <Connor McCoy>
   Data Exploration  
   
   ![Pride Flag](https://peacemonger.org/assets/images/flg007.jpg)
+  
+  #### THIS README IS LGBT+ FRIENDLY :)
