@@ -1,11 +1,13 @@
 # Data Entry Analysis
 
-Here are the issues I have found with the organization of the data
+## Data Organization Issues
 
 1. Plotted charts feature no legend or labeling as to the meaning of their axes
-2. No context as to the meaning of z on the pond2010 file
-3. Missing data cells in files with no explanation for missing data or what to count it as
-4. zoop table lists the name "ColonySize" whereas the pond2010 file lists colony diameter. The values seem similar in size so not sure if they are the same data type.
-5. No context as to what "Chla" means on zoop file.
-6. No time information given as to when samples were observed/collected.
-7. Unclear as to what the significance of "main" is in the file "zoop - temp-main" . While this data is different from that seen on the tem
+2. Inconsistent Column names (z = depth, ColonySize = Colony Diameter, Density = Species #/L)
+3. Missing data cells in files with no explanation for missing data or what to count it as. (Null, zero, etc)
+4. No time information given as to when samples were observed/collected.
+5. Unclear as to what the significance of "main" is in the file "zoop - temp-main" . This is does not seem to be the same data as seen in the "zoop - temp" file, but little info is given as to it's significance.  
+6. File "zoop - temp" has a few meter(?) measures in the top left corner but I don't see clear indicators of their meaning or context.
+7. "zoop - temp" has a small area where averages are being calculated with the plankton size. The calculations are split between the first and second halves of the data, with the only context being the "7th" and "9th" labels. Unclear as to their meaning? I think it's dates, but it's unclear.  
+
+## Proposed Fixes
