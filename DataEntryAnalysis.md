@@ -11,3 +11,9 @@
 7. "zoop - temp" has a small area where averages are being calculated with the plankton size. The calculations are split between the first and second halves of the data, with the only context being the "7th" and "9th" labels. Unclear as to their meaning? I think it's dates, but it's unclear.  
 
 ## Proposed Fixes
+To address the issues with data set I put forth the following propositions for reorganization:
+  
+* Set better standard for column titles (Pick a name and stick with it)
+* Include units of measurements in column titles
+* Pick a designated description for empty cells (i.e. NULL) or provide some context on the page explaining the empty values.
+* 
