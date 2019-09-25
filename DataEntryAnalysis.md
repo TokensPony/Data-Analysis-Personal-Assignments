@@ -16,4 +16,9 @@ To address the issues with data set I put forth the following propositions for r
 * Set better standard for column titles (Pick a name and stick with it)
 * Include units of measurements in column titles
 * Pick a designated description for empty cells (i.e. NULL) or provide some context on the page explaining the empty values.
-* 
+* All extraneous tables and info outside of the main columns such as areas for calculating averages must be labeled appropriately.
+
+| Date     | Depth (M) | Cuni #/L | Cuni ColonySize (Unit here) | Chippo #/L | Chippo ColonySize (Unit Here) | Chia (Unit Here) |Temp (C) |
+|----------|-----------|----------|-----------------------------|------------|-------------------------------|------------------|---------|
+| 6/4/2011 | 0.5       | 72       | 2.12                        | 45         | NULL                          | 3.1              | 14.1    |  
+The table seen here standardizes the column names as well as provides the unit sizes (save for the ones I was unsure of) and also designates a NULL for uncollected or empty values.
