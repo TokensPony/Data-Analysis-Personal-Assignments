@@ -5,7 +5,7 @@ Copyright (C) <2019>  <Connor McCoy>
   [Full Licence](https://github.com/TokensPony/Data-Analysis-Personal-Assignments/blob/master/LICENSE)  
   
   [Data Entry Analysis](https://github.com/TokensPony/Data-Analysis-Personal-Assignments/blob/master/DataEntryAnalysis.md)  
-  Data Exploration  
+  [Data Exploration](https://github.com/TokensPony/Data-Analysis-Personal-Assignments/blob/master/DataExploration/DataExploration.md)  
   
   ![Pride Flag](https://peacemonger.org/assets/images/flg007.jpg)
   
